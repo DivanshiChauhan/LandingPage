@@ -6,7 +6,7 @@ A modern and responsive landing page built with React.js and Tailwind CSS, desig
 🔗 [View Live Project](https://landing-page-81m0.onrender.com)
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js, Tailwind CSS, Framer Motion
 - **Deployment:** Render
 
 ## ✨ Features
@@ -15,6 +15,7 @@ A modern and responsive landing page built with React.js and Tailwind CSS, desig
 ✅ Dark mode toggle
 ✅ Animated menu for small screens
 ✅ Contact form with user input fields
+✅ Motion animations powered by Framer Motion
 
 ## 📂 Project Structure
 ```
