@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-const ServicesSection = ({ theme }) => {
+const Services = ({ theme }) => {
   const services = [
     {
       title: "Managed Services",
@@ -136,4 +136,4 @@ const ServicesSection = ({ theme }) => {
   );
 };
 
-export default ServicesSection;
+export default Services;
